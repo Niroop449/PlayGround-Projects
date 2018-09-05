@@ -55,7 +55,7 @@ return(
       <bootstrap.Col sm={6} md={3} lg={1}>
         <code>
           &lt;
-          {'Col sm={6} md={3}'} /">">">">">">">&gt;
+          {'Col sm={6} md={3}'} /">">">">">">">">&gt;
         </code>
         <br />
         {dummySentences.slice(0, 2).join(' ')}
